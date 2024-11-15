@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "8037",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alicejohnson@gmail.com",
+      "status": "active",
+      "id": "_hqWKYz"
+    }
+  ]
+}
